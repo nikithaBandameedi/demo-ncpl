@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 welcome to github
-=======
 "welcome to git" 
->>>>>>> 2fbfac8a4a11daa7672a2d6cd62689d14a7ab287
+
+for branching and merging
